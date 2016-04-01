@@ -1,0 +1,62 @@
+class SafeMockObjectThatIsIncludedWithPython8:
+    def __repr__(*_): return ''
+    def __str__(*_): return ''
+    def __bytes__(*_): return SafeMockObjectThatIsIncludedWithPython8()
+    def __format__(*_): return SafeMockObjectThatIsIncludedWithPython8()
+    def __lt__(*_): return SafeMockObjectThatIsIncludedWithPython8()
+    def __le__(*_): return SafeMockObjectThatIsIncludedWithPython8()
+    def __eq__(*_): return SafeMockObjectThatIsIncludedWithPython8()
+    def __ne__(*_): return SafeMockObjectThatIsIncludedWithPython8()
+    def __gt__(*_): return SafeMockObjectThatIsIncludedWithPython8()
+    def __ge__(*_): return SafeMockObjectThatIsIncludedWithPython8()
+    def __hash__(*_): return SafeMockObjectThatIsIncludedWithPython8()
+    def __bool__(*_): return False
+    def __len__(*_): return 0
+    def __hash__(*_): return 0
+    def __getattr__(*_): return SafeMockObjectThatIsIncludedWithPython8()
+    def __getattribute__(*_): return SafeMockObjectThatIsIncludedWithPython8()
+    def __setattr__(*_): pass
+    def __iter__(*_): return SafeMockObjectThatIsIncludedWithPython8()
+    def __next__(*_): raise StopIteration
+    def __delattr__(*_): pass
+    def __dir__(*_): return []
+    def __getitem__(*_): return SafeMockObjectThatIsIncludedWithPython8()
+    def __setitem__(*_): pass
+    def __delitem__(*_): pass
+    def __invert__(*_): return SafeMockObjectThatIsIncludedWithPython8()
+    def __add__(*_): return SafeMockObjectThatIsIncludedWithPython8()
+    def __sub__(*_): return SafeMockObjectThatIsIncludedWithPython8()
+    def __mul__(*_): return SafeMockObjectThatIsIncludedWithPython8()
+    def __matmul__(*_): return SafeMockObjectThatIsIncludedWithPython8()
+    def __truediv__(*_): return SafeMockObjectThatIsIncludedWithPython8()
+    def __floordiv__(*_): return SafeMockObjectThatIsIncludedWithPython8()
+    def __mod__(*_): return SafeMockObjectThatIsIncludedWithPython8()
+    def __divmod__(*_): return SafeMockObjectThatIsIncludedWithPython8()
+    def __pow__(*_): return SafeMockObjectThatIsIncludedWithPython8()
+    def __lshift__(*_): return SafeMockObjectThatIsIncludedWithPython8()
+    def __rshift__(*_): return SafeMockObjectThatIsIncludedWithPython8()
+    def __and__(*_): return SafeMockObjectThatIsIncludedWithPython8()
+    def __or__(*_): return SafeMockObjectThatIsIncludedWithPython8()
+    def __xor__(*_): return SafeMockObjectThatIsIncludedWithPython8()
+    def __radd__(*_): return SafeMockObjectThatIsIncludedWithPython8()
+    def __rsub__(*_): return SafeMockObjectThatIsIncludedWithPython8()
+    def __rmul__(*_): return SafeMockObjectThatIsIncludedWithPython8()
+    def __rmatmul__(*_): return SafeMockObjectThatIsIncludedWithPython8()
+    def __rtruediv__(*_): return SafeMockObjectThatIsIncludedWithPython8()
+    def __rfloordiv__(*_): return SafeMockObjectThatIsIncludedWithPython8()
+    def __rmod__(*_): return SafeMockObjectThatIsIncludedWithPython8()
+    def __rdivmod__(*_): return SafeMockObjectThatIsIncludedWithPython8()
+    def __rpow__(*_): return SafeMockObjectThatIsIncludedWithPython8()
+    def __rlshift__(*_): return SafeMockObjectThatIsIncludedWithPython8()
+    def __rrshift__(*_): return SafeMockObjectThatIsIncludedWithPython8()
+    def __rand__(*_): return SafeMockObjectThatIsIncludedWithPython8()
+    def __ror__(*_): return SafeMockObjectThatIsIncludedWithPython8()
+    def __rxor__(*_): return SafeMockObjectThatIsIncludedWithPython8()
+    def __neg__(*_): return SafeMockObjectThatIsIncludedWithPython8()
+    def __pos__(*_): return SafeMockObjectThatIsIncludedWithPython8()
+    def __abs__(*_): return SafeMockObjectThatIsIncludedWithPython8()
+    def __complex__(*_): return SafeMockObjectThatIsIncludedWithPython8()
+    def __int__(*_): return SafeMockObjectThatIsIncludedWithPython8()
+    def __float__(*_): return SafeMockObjectThatIsIncludedWithPython8()
+    def __round__(*_): return SafeMockObjectThatIsIncludedWithPython8()
+    def __index__(*_): return SafeMockObjectThatIsIncludedWithPython8()
